@@ -1,0 +1,5 @@
+path:  C:\Users\ruipe\PycharmProjects\training
+train: C:\Users\ruipe\PycharmProjects\images\bamboo_stick
+val: C:\Users\ruipe\PycharmProjects\images\bamboo_stick
+names:
+  0: bamboo_stick
